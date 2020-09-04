@@ -17,7 +17,7 @@
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.4.3",
     "lodash": "^4.17.15",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "sass": "^1.23.7",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.10",
